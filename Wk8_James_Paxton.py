@@ -1,14 +1,4 @@
-# This is the flower box and it should at the beginning of each assignment
-
-# You must add comments to your code
-# Program name : Wk8_James_Paxton.py
-# Student Name : James Paxton
-# Course : ENTD220
-# Instructor : Ahmed Abaza
-# Date : 9/24/22
-
-# Copy Wrong: This is my work
-# the two Error Traps begin on line 33 and 50 (week 4 assignment)
+# the two Error Traps
 # line 33 trap is setup to stop the user from entering anything other than a number and will inform them on this error/requirment
 # line 55 trap is a divide by zero. If the user tries to divide by zero the message will let them know that it cant be done. 
 
