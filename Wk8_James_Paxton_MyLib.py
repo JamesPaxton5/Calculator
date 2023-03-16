@@ -1,14 +1,3 @@
-# This is the flower box and it should at the beginning of each assignment
-
-# You must add comments to your code
-# Program name : Wk8_James_Paxton_MyLib.py
-# Student Name : James Paxton
-# Course : ENTD220
-# Instructor : Ahmed Abaza
-# Date : 9/24/22
-
-# Copy Wrong: This is my work
-
 #MyLib
 
 class calc():
